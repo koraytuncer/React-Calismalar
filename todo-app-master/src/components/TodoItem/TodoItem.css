@@ -1,0 +1,10 @@
+.silBtn{
+    float: right;
+    position: relative;
+    bottom: 7px;
+
+}
+.todoyazi{
+    text-decoration: line-through;
+    color: rgb(165, 165, 165);
+}
